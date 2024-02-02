@@ -6,4 +6,3 @@ Please note that the data may have missing values as some stores might not repor
 
 ## Problem statement
 The objective is to predict out the sales of each product at a particular store.
-![image](https://github.com/abdulmahejabeen/BIGMART_SALES/assets/56336879/018f743d-8e2a-46ae-9890-5587f3950b90)
